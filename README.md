@@ -1,3 +1,3 @@
 # The most basic JAMstack site
 
-[a link](https://maverickdeepak.github.io/simplejam)
+[Live Website URL](https://maverickdeepak.github.io/simplejam)
